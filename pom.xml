@@ -19,6 +19,8 @@
         <module>config</module>
         <module>discovery</module>
         <module>gateway</module>
+        <module>book-service</module>
+        <module>rating-service</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
