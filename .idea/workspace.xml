@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c101c7be-ce75-4b45-9cb9-0aef1e041580" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,16 +29,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rating-service/src/main/java/com/spring/cloud/ratingservice/RatingServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="129">
               <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
               <folding>
                 <element signature="e#1330#1331#0" expanded="true" />
                 <element signature="e#1356#1357#0" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rating-service/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7644" />
           </provider>
         </entry>
       </file>
@@ -84,6 +110,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -106,6 +137,8 @@
         <option value="$PROJECT_DIR$/rating-service/src/main/java/com/spring/cloud/ratingservice/domain/Rating.java" />
         <option value="$PROJECT_DIR$/rating-service/src/main/java/com/spring/cloud/ratingservice/RatingServiceApplication.java" />
         <option value="$PROJECT_DIR$/rating-service/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/rating-service/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -151,44 +184,6 @@
               <item name="spring-cloud-bootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="rating-service" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring-cloud-bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="rating-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="rating-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="rating-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="rating-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ratingservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="rating-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -202,7 +197,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549891877681" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549892165240" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -276,7 +271,7 @@
       <workItem from="1549121206712" duration="1214000" />
       <workItem from="1549343589355" duration="349000" />
       <workItem from="1549345441456" duration="4494000" />
-      <workItem from="1549883986652" duration="5018000" />
+      <workItem from="1549883986652" duration="5320000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] add init">
       <created>1549122222207</created>
@@ -296,12 +291,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16020000" />
+    <option name="totallyTimeSpent" value="16322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="24" width="960" height="1056" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.36293858" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36293858" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -317,13 +313,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3297414" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4989035" visible="true" weight="0.14224137" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49780703" visible="true" weight="0.5237069" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010965" side_tool="true" weight="0.60668105" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502193" side_tool="true" weight="0.5237069" />
       <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.4859914" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.4859914" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="TypeScript" order="15" />
       <window_info anchor="bottom" id="Run Dashboard" order="16" weight="0.32903227" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -573,12 +569,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rating-service/src/main/java/com/spring/cloud/ratingservice/RatingServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="129">
           <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
           <folding>
             <element signature="e#1330#1331#0" expanded="true" />
             <element signature="e#1356#1357#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7644" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rating-service/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
